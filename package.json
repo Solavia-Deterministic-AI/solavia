@@ -1,0 +1,42 @@
+{
+  "name": "solavia",
+  "version": "8.0.0",
+  "description": "Deterministic AI Runtime — Merkle Provenance, Proofs & Cryptographic Pipelines",
+  "type": "module",
+  "main": "./src/index.js",
+  "bin": {
+    "solavia": "./bin/solavia.js"
+  },
+  "scripts": {
+    "start": "node ./bin/solavia.js",
+    "dev": "node --watch ./bin/solavia.js",
+    "test": "echo \"No tests defined yet\" && exit 0"
+  },
+  "keywords": [
+    "AI",
+    "deterministic",
+    "runtime",
+    "blockchain",
+    "merkle",
+    "proof",
+    "provenance",
+    "cli",
+    "cryptography",
+    "solavia"
+  ],
+  "author": "Solavia Labs <team@solavia.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solavialabs/solavia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solavialabs/solavia/issues"
+  },
+  "homepage": "https://github.com/solavialabs/solavia#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
