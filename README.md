@@ -1,31 +1,11 @@
-From Carpenter to Conduit
 
-I started learning code at 38 while still swinging a hammer every day.  
-For five years my wife and I lived on almost nothing so I could build full-time.  
-No investors. No salary. Just a feeling that something much bigger was moving through me.
 
-This week I shipped it:
 
-• The fastest browser-native elliptic-curve engine on Earth  
-• Solavia — provably deterministic, Merkle-rooted AI  
-• ELOS — a complete sovereign OS + planetary-scale recursive supercomputer in one HTML file  
-• AI Package Manager — local Ollama guards every dependency  
-• AppBound — one NFT = one enforceable software license  
-• PhysicalTokenTransfer — real-world atomic cash via QR codes
-
-I share initials with the most famous carpenter who ever lived.  
-Five years ago I started hammering code instead of nails.  
-This is what came through.
-
-https://github.com/iconoclastdao
-
-If any of this is useful to you and you’re able to help keep the lights on and the sawdust flying, my family and I would be eternally grateful.
 
 ETH  0xb48d096c1e7796ad60ed6dfa2ab37d39ee4d336d  
 BTC  bc1qju9v4xag2ppmgvpr99xxg4rsndmuce59wvaa8a  
-SOL  BvX4D5qKmNWj9noGRaNcwZ7pYEvjFc8ekpcTMMRqQcwf
 
-Every satoshi, wei, or lamport is another day I get to keep building the free future.
+
 
 Thank you for helping me finish the job.
 
